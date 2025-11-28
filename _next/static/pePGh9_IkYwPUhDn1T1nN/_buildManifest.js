@@ -3,7 +3,7 @@ self.__BUILD_MANIFEST = {
     "afterFiles": [],
     "beforeFiles": [
       {
-        "source": "/mmpoonya.github.io//_next/:path+",
+        "source": "/./mmpoonya.github.io//_next/:path+",
         "destination": "/mmpoonya.github.io/_next/:path+"
       }
     ],
